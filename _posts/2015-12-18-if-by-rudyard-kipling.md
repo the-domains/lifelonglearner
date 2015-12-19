@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: The first poem I read in high school that inspired me to start learning about personal development
-datePublished: '2015-12-19T17:14:08.937Z'
-dateModified: '2015-12-19T17:14:04.174Z'
+datePublished: '2015-12-19T17:15:05.085Z'
+dateModified: '2015-12-19T17:15:02.187Z'
 title: "If — By Rudyard Kipling\_"
 author: []
 sourcePath: _posts/2015-12-18-if-by-rudyard-kipling.md
@@ -22,8 +22,6 @@ url: if-by-rudyard-kipling/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad4d9684992c7ce989d5ece75c84e0efd69d1dda.jpg)
-
 # If --- By Rudyard Kipling 
 > 
 > If you can keep your head when all about you Are losing theirs and blaming it on you, 
@@ -51,4 +49,6 @@ _type: Article
 > If all men count with you, but none too much; 
 > 
 > If you can fill the unforgiving minute With sixty seconds' worth of distance run, Yours is the Earth and everything that's in it, And---which is more---you'll be a Man, my son!
->
+> 
+
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad4d9684992c7ce989d5ece75c84e0efd69d1dda.jpg)
