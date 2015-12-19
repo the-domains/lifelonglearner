@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: A little about myself
-datePublished: '2015-12-19T15:43:47.918Z'
-dateModified: '2015-12-19T15:43:41.473Z'
+datePublished: '2015-12-19T17:13:46.464Z'
+dateModified: '2015-12-19T17:13:37.676Z'
 title: Martijn Cruyff
 author: []
 sourcePath: _posts/2015-12-18-martijn-cruyff.md
