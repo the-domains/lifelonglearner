@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A little about myself
-datePublished: '2015-12-19T15:03:20.889Z'
-dateModified: '2015-12-19T14:47:32.734Z'
+datePublished: '2015-12-19T15:43:47.918Z'
+dateModified: '2015-12-19T15:43:41.473Z'
 title: Martijn Cruyff
 author: []
 sourcePath: _posts/2015-12-18-martijn-cruyff.md
