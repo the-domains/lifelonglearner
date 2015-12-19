@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: The first poem I read in high school that inspired me to start learning about personal development
-datePublished: '2015-12-19T15:42:23.455Z'
-dateModified: '2015-12-19T15:42:18.790Z'
+datePublished: '2015-12-19T15:44:11.878Z'
+dateModified: '2015-12-19T15:44:08.898Z'
 title: "If — By Rudyard Kipling\_"
 author: []
 sourcePath: _posts/2015-12-18-if-by-rudyard-kipling.md
@@ -25,8 +25,8 @@ _type: Article
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad4d9684992c7ce989d5ece75c84e0efd69d1dda.jpg)
 
 # If --- By Rudyard Kipling 
-
-If you can keep your head when all about you Are losing theirs and blaming it on you, 
+> 
+> If you can keep your head when all about you Are losing theirs and blaming it on you, 
 
 If you can trust yourself when all men doubt you, But make allowance for their doubting too; 
 
