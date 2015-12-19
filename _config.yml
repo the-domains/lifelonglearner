@@ -1,7 +1,7 @@
 name: LifeLongLearner
 favicon: null
 layout_spectrum: 0.9291686727665365
-typography_spectrum: 0.6357936775311828
+typography_spectrum: 0.35624
 title: Life Long Learner
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.012537084519863129
-  lightness: 0.09166565234772861
-  saturation: 0.8983774303924292
-  rhythmicContrast: 0.05869380896911025
+    - '#000002'
+    - '#fefefe'
+    - '#0a5499'
+    - '#faab81'
+    - '#c96232'
+  brandStrength: 0.6875
+  lightness: 0.75
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
