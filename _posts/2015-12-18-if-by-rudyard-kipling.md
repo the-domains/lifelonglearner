@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: The first poem I read in high school that inspired me to start learning about personal development
-datePublished: '2015-12-19T15:47:34.862Z'
-dateModified: '2015-12-19T15:47:31.523Z'
+datePublished: '2015-12-19T15:48:14.307Z'
+dateModified: '2015-12-19T15:48:11.474Z'
 title: "If — By Rudyard Kipling\_"
 author: []
 sourcePath: _posts/2015-12-18-if-by-rudyard-kipling.md
@@ -40,7 +40,7 @@ _type: Article
 > 
 > If you can bear to hear the truth you've spoken Twisted by knaves to make a trap for fools, Or watch the things you gave your life to, broken, And stoop and build 'em up with worn-out tools: 
 > 
-> If you can make one heap of all your winnings And risk it on one turn of pitch-and-toss, And lose, and start again at your beginnings And never breathe a word about your loss; 
+> If you can make one heap of all your winnings And risk it on one turn of pitch-and-toss, And lose, and start again at your beginnings And never breathe a word about your loss;
 > 
 > If you can force your heart and nerve and sinew To serve your turn long after they are gone, And so hold on when there is nothing in you Except the Will which says to them: 'Hold on!' 
 > 
