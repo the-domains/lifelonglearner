@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: The first poem I read in high school that inspired me to start learning about personal development
-datePublished: '2015-12-19T17:31:17.018Z'
-dateModified: '2015-12-19T17:31:05.121Z'
+datePublished: '2015-12-19T17:36:02.077Z'
+dateModified: '2015-12-19T17:35:57.380Z'
 title: If — By Rudyard Kipling
 author: []
 sourcePath: _posts/2015-12-18-if-by-rudyard-kipling.md
@@ -91,7 +91,7 @@ With sixty seconds' worth of distance run,
 
 Yours is the Earth and everything that's in it,   
 
-# And---which is more---you'll be a Man, my son!
+And---which is more---you'll be a Man, my son!
 null
 null
 null
