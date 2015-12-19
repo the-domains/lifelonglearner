@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: The first poem I read in high school that inspired me to start learning about personal development
-datePublished: '2015-12-19T14:34:09.140Z'
-dateModified: '2015-12-19T14:33:56.083Z'
+datePublished: '2015-12-19T14:50:04.456Z'
+dateModified: '2015-12-19T14:49:59.293Z'
 title: "If — By Rudyard Kipling\_"
 author: []
 sourcePath: _posts/2015-12-18-if-by-rudyard-kipling.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: if-by-rudyard-kipling/index.html
-_type: Blurb
+_type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad4d9684992c7ce989d5ece75c84e0efd69d1dda.jpg)
