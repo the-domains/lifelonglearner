@@ -4,7 +4,7 @@
         <description><![CDATA[Life Long Learner]]></description>
         <link>https://thegrid.ai/lifelonglearner/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 17:36:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 11:47:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lifelonglearner/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Martijn Cruyff]]></title>
@@ -15,17 +15,10 @@
         </item>
         <item>
             <title><![CDATA[If — By Rudyard Kipling]]></title>
-            <description><![CDATA[<article><h1>If — By Rudyard Kipling</h1><p>The first poem I read in high school that inspired me to start learning about personal development</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a79aff84ded396ab7771d2fcb3af220d5f5ad3f9.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>If — By Rudyard Kipling</h1><p>The first poem I read in high school that inspired me to start learning about personal development</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ad86c7ba96ce205718fab7b61861fd3bba1a0b4.jpg"></article>]]></description>
             <link>https://thegrid.ai/lifelonglearner/if-by-rudyard-kipling/index.html</link>
             <guid isPermaLink="false">c1fbb9e2-4637-4aa1-a29a-c50688509689</guid>
             <pubDate>Sat, 19 Dec 2015 17:36:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dit is een test tekst]]></title>
-            <description><![CDATA[<article><h1>Dit is een test tekst</h1><p>Grid test tekst</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec0ff0909e4df800bbba8aff4fa10bcee3b53d6f.jpg"></article>]]></description>
-            <link>https://thegrid.ai/lifelonglearner/dit-is-een-test-tekst/index.html</link>
-            <guid isPermaLink="false">84a8095a-d778-4e42-a362-b2fd4fc27c16</guid>
-            <pubDate>Sat, 19 Dec 2015 17:23:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
