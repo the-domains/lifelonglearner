@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: The first poem I read in high school that inspired me to start learning about personal development
-datePublished: '2016-01-16T21:30:45.677Z'
+datePublished: '2016-01-16T21:30:46.098Z'
 dateModified: '2016-01-16T17:49:39.507Z'
 title: If — By Rudyard Kipling
 author: []
