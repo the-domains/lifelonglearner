@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: The first poem I read in high school that inspired me to start learning about personal development
-datePublished: '2015-12-19T17:36:02.077Z'
-dateModified: '2015-12-19T17:35:57.380Z'
+datePublished: '2016-01-16T21:30:45.677Z'
+dateModified: '2016-01-16T17:49:39.507Z'
 title: If — By Rudyard Kipling
 author: []
 sourcePath: _posts/2015-12-18-if-by-rudyard-kipling.md
@@ -41,6 +41,7 @@ Or being lied about, don't deal in lies,
 Or being hated, don't give way to hating,
 
 And yet don't look too good, nor talk too wise:
+
 null
 
 If you can dream---and not make dreams your master;   
@@ -58,6 +59,7 @@ Twisted by knaves to make a trap for fools,
 Or watch the things you gave your life to, broken,
 
 And stoop and build 'em up with worn-out tools:
+
 null
 
 If you can make one heap of all your winnings
@@ -75,6 +77,7 @@ To serve your turn long after they are gone,
 And so hold on when there is nothing in you
 
 Except the Will which says to them: 'Hold on!'
+
 null
 
 If you can talk with crowds and keep your virtue,   
@@ -92,68 +95,5 @@ With sixty seconds' worth of distance run,
 Yours is the Earth and everything that's in it,   
 
 And---which is more---you'll be a Man, my son!
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
+
+nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull
